@@ -4,5 +4,3 @@ function sum(m, n) {
 
 sum(1, 2);
 sum(2, 5);
-  return m + n;
-}
